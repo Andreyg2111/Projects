@@ -1,0 +1,82 @@
+{
+  "ourStudents": {
+    "students": [
+      {
+        "id": 1,
+        "name": "Pavlo Yakovenko",
+        "address": [
+          {
+            "city": "Kyiv",
+            "street": "Londonska",
+            "houseNumber": 7,
+            "apartmentNumber": 45
+          }
+        ],
+        "contacts": [
+          {
+            "phoneNumber": "+380937832379",
+            "email": "yakovenko2109@gmail.com",
+            "telegram": "@yakovenko2109"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Natalya Petrenko",
+        "address": [
+          {
+            "city": "Dnipro",
+            "street": "Robocha",
+            "houseNumber": 23,
+            "apartmentNumber": 79
+          }
+        ],
+        "contacts": [
+          {
+            "phoneNumber": "+380982132587",
+            "email": "natali_petrenko@gmail.com",
+            "telegram": "@natali2510"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Oleg Yarmolenko",
+        "address": [
+          {
+            "city": "Lviv",
+            "street": "Shevchenka",
+            "houseNumber": 19,
+            "apartmentNumber": 64
+          }
+        ],
+        "contacts": [
+          {
+            "phoneNumber": "+380635768891",
+            "email": "yarmolenko_oleg2303@gmail.com",
+            "telegram": "@yarmola2303"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Vasyl Melnyk",
+        "address": [
+          {
+            "city": "Kyiv",
+            "street": "Solomyanska",
+            "houseNumber": 6,
+            "apartmentNumber": 42
+          }
+        ],
+        "contacts": [
+          {
+            "phoneNumber": "+380932589153",
+            "email": "melnyk22@gmail.com",
+            "telegram": "@melnyk_oleg"
+          }
+        ]
+      }
+    ]
+  }
+}
