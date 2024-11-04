@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<our_students>
+	<student>
+		<id>1</id>
+		<name>Pavlo Yakovenko</name>
+		<address>
+			<city>Kyiv</city>
+			<street>Londonska</street>
+			<house_number>7</house_number>
+			<apartment_number>45</apartment_number>
+		</address>
+		<contacts>
+			<phone_number>+380937832379</phone_number>
+			<email>yakovenko2109@gmail.com</email>
+			<telegram>@yakovenko2109</telegram>
+		</contacts>
+	</student>
+	<student>
+		<id>2</id>
+		<name>Natalya Petrenko</name>
+		<address>
+			<city>Dnipro</city>
+			<street>Robocha</street>
+			<house_number>23</house_number>
+			<apartment_number>79</apartment_number>
+		</address>
+		<contacts>
+			<phone_number>+380982132587</phone_number>
+			<email>natali_petrenko@gmail.com</email>
+			<telegram>@natali2510</telegram>
+		</contacts>
+	</student>
+	<student>
+		<id>3</id>
+		<name>Oleg Yarmolenko</name>
+		<address>
+			<city>Lviv</city>
+			<street>Shevchenka</street>
+			<house_number>19</house_number>
+			<apartment_number>64</apartment_number>
+		</address>
+		<contacts>
+			<phone_number>+380635768891</phone_number>
+			<email>yarmolenko_oleg2303@gmail.com</email>
+			<telegram>@yarmola2303</telegram>
+		</contacts>
+	</student>
+	<student>
+		<id>4</id>
+		<name>Vasyl Melnyk</name>
+		<address>
+			<city>Kyiv</city>
+			<street>Solomyanska</street>
+			<house_number>6</house_number>
+			<apartment_number>42</apartment_number>
+		</address>
+		<contacts>
+			<phone_number>+380932589153</phone_number>
+			<email>melnyk22@gmail.com</email>
+			<telegram>@melnyk_oleg</telegram>
+		</contacts>
+	</student>
+</our_students>
